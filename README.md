@@ -6,16 +6,22 @@ This project focuses on the data analysis of Muon decay and the Cosmic Microwave
 
 The project is divided into two main parts:
 
-1. Muon Decay: In this part, we analyze the data from our lab experiment on Muon decay. This includes data preprocessing, fitting an exponential decay function, and determining the mean lifetime of the Muon.
+1. Muon Decay: I analyzed the data from the lab experiment on Muon decay. This includes data preprocessing, fitting an exponential decay function, and determining the mean lifetime of the Muon.
 
-2. Cosmic Microwave Background (CMB): In the second part, we analyze data from the Planck satellite to study the CMB. This includes data cleaning, plotting the power spectrum, and fitting a theoretical model.
+2. Cosmic Microwave Background (CMB): I analyzed radiometric data to study the CMB in the second part. This includes data cleaning, plotting the power spectrum, and fitting a theoretical model.
 
 ## Getting Started
+
+I recommend installing Anaconda first. 
 
 ### Prerequisites
 
 - Python 3.x
 - Jupyter Notebook
-- Libraries: numpy, scipy, matplotlib, pandas, astropy (These can be installed using pip)
+- Libraries: numpy, scipy, matplotlib, pandas...
 ```bash
-pip install numpy scipy matplotlib pandas astropy
+pip install numpy scipy matplotlib pandas...
+
+
+### License and Permission
+ 
