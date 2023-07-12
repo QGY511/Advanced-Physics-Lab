@@ -8,7 +8,7 @@ The project is divided into two main parts:
 
 1. Muon Decay: I analyzed the data from the lab experiment on Muon decay. This includes data preprocessing, fitting an exponential decay function, and determining the mean lifetime of the Muon.
 
-2. Cosmic Microwave Background (CMB): I analyzed radiometric data to study the CMB in the second part. This includes data cleaning, plotting the power spectrum, and fitting a theoretical model.
+2. Cosmic Microwave Background (CMB): I analyzed data collected from the radiometer to study the CMB in the second part. This includes data cleaning, plotting the power spectrum, and fitting a theoretical model.
 
 ## Getting Started
 
