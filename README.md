@@ -22,6 +22,6 @@ I recommend installing Anaconda first.
 ```bash
 pip install numpy scipy matplotlib pandas...
 
-
+```
 ### License and Permission
- 
+Do not use the code, figures, and reports for any academic assignments that will violate academic integrity.
